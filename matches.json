@@ -1,1 +1,19 @@
-
+[
+  {
+    "descricao": "Eliminatórias copa do mundo FIFA 2022",
+    "local": {
+      "nome": "Castelão",
+      "imagem": "TODO"
+    },
+    "mandante": {
+      "nome": "Brasil",
+      "forca": 5,
+      "imagem": "TODO"
+    },
+    "visitante": {
+      "nome": "Uruguai",
+      "forca": 5,
+      "imagem": "TODO"
+    }
+  }  
+]
