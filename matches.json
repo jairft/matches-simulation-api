@@ -66,5 +66,22 @@
       "forca": 5,
       "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/br.png"
     }
+  },
+  {
+    "descricao": "Eliminatórias Copa do Mundo FIFA 2022",
+    "local": {
+      "nome": "Castelão",
+      "imagem": "https://ronaldogiusti.files.wordpress.com/2014/07/e0537-pano_20140704_182721.jpg"
+    },
+    "mandante": {
+      "nome": "Argentina",
+      "forca": 5,
+      "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/ar.png"
+    },
+    "visitante": {
+      "nome": "Peru",
+      "forca": 3,
+      "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/pe.png"
+    }
   }  
 ]
