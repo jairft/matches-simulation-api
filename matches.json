@@ -83,5 +83,22 @@
       "forca": 3,
       "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/pe.png"
     }
+  },
+   {
+    "descricao": "Eliminatórias Copa do Mundo FIFA 2022",
+    "local": {
+      "nome": "Mineirão",
+      "imagem": "https://www.jornaldamidia.com.br/wp-content/uploads/2016/11/brasil.argentina.mineirao.jpeg"
+    },
+    "mandante": {
+      "nome": "Uruguay",
+      "forca": 4,
+      "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/uy.png"
+    },
+    "visitante": {
+      "nome": "Chile",
+      "forca": 4,
+      "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/cl.png"
+    }
   }  
 ]
