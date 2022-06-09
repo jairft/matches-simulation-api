@@ -49,5 +49,22 @@
       "forca": 4,
       "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/cl.png"
     }
+  },
+   {
+    "descricao": "Eliminatórias Copa do Mundo FIFA 2022",
+    "local": {
+      "nome": "Allianz Parque",
+      "imagem": "TODO"
+    },
+    "mandante": {
+      "nome": "Colombia",
+      "forca": 3,
+      "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/co.png"
+    },
+    "visitante": {
+      "nome": "Brasil",
+      "forca": 5,
+      "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/br.png"
+    }
   }  
 ]
